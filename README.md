@@ -1,5 +1,4 @@
 # Real World Underwater Image Enhancement Based on Two stage GAN-based Architecture
-A data-driven method for underwater image restoration and enhancement
 http://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dstdcdr&s=G0M10702141.id
 
 ## Recommanded System Requirements
